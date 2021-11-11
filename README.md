@@ -14,3 +14,23 @@ So, Pyrolam helps people in knowing the weather conditions related to fire in an
 take precautions before it occurs.
 
 <hr>
+
+<b>Proposed System:</b>
+PyroLam is a fire prediction App,it stores the data and react to the future situations based
+on past experiences.
+ It acts more like human with Data Mining and Machine Learning.
+ It takes its own decisions based on the data provided to it .
+ The accuracy of the prediction depends upon the correctness of the data.
+ It uses Firebase which is a combination of server and database. Pyrolam is a real
+time application. Therefore it is easy for database storage.
+
+ The datasets are taken from NASA satellite data .
+ The data is mined with iterative dichotomiser 3 algorithm to draw the decision
+tree and structure the data.
+ The mined data is given as an input to a Machine learning algorithm.
+ The algorithm helps to predict the forest fire based on the 14 attributes.
+
+<hr>
+
+
+
