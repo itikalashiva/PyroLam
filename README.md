@@ -42,5 +42,5 @@ tree and structure the data.</li>
 </ul>
 <hr>
 <b>Application Screenshots</b>
-![Introduction](/screenshots/Intro1.png)
+![Alt Text](https://github.com/itikalashiva/PyroLam/blob/master/screenshots/Intro1.PNG)
 
