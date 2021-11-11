@@ -43,7 +43,7 @@ tree and structure the data.</li>
 <hr>
 <b>Application Screenshots</b>
 <br>
-![This is an image](screenshots/Intro1.PNG)
+![This is an image](/screenshots/Intro1.PNG)
 ![App Introduction](https://github.com/itikalashiva/PyroLam/blob/master/screenshots/Intro1.PNG)
 
 
