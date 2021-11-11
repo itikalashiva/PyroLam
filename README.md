@@ -41,6 +41,13 @@ tree and structure the data.</li>
 <li> The algorithm helps to predict the forest fire based on the 14 attributes.</li>
 </ul>
 <hr>
-<b>Application Screenshots</b>
-![Alt Text](https://github.com/itikalashiva/PyroLam/blob/master/screenshots/Intro1.PNG)
+
+<b>Application Screenshots
+<br>
+<br>
+![alt text](https://github.com/itikalashiva/PyroLam/blob/master/screenshots/Intro1.PNG)
+![alt text](https://github.com/itikalashiva/PyroLam/blob/master/screenshots/intro2.PNG)
+![alt text](https://github.com/itikalashiva/PyroLam/blob/master/screenshots/options.PNG)
+![alt text](https://github.com/itikalashiva/PyroLam/blob/master/screenshots/layers.PNG)
+![alt text](https://github.com/itikalashiva/PyroLam/blob/master/screenshots/Nasalive.PNG)
 
