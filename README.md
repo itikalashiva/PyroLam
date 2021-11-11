@@ -7,8 +7,8 @@ Live spreading of data is shown on maps using google maps API.
 Added features:
 <ul>
 <li> Simple Layout and efficient.</li>
-<li> Provides connectivity with NASA live view.<li>
-<li> Analyzes climatic conditions based on user inputs. <li>
+<li> Provides connectivity with NASA live view.</li>
+<li> Analyzes climatic conditions based on user inputs. </li>
 </ul>
 <b>Purpose of the system</b>:
 
