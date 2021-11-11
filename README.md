@@ -41,6 +41,4 @@ tree and structure the data.</li>
 </ul>
 <hr>
 <b>Application Screenshots</b>
-
-
-
+![Introduction](/screenshots/intro1.png)
