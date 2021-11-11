@@ -10,6 +10,7 @@ Added features:
 <li> Provides connectivity with NASA live view.</li>
 <li> Analyzes climatic conditions based on user inputs. </li>
 </ul>
+<hr>
 <b>Purpose of the system</b>:
 
 Is it going to rain today? Or a sunny day? Are there any chances of a forest fire? or a
@@ -41,6 +42,6 @@ tree and structure the data.</li>
 </ul>
 <hr>
 <b>Application Screenshots</b>
-
+![App Introduction](https://github.com/itikalashiva/PyroLam/blob/master/screenshots/Intro1.PNG)
 
 
